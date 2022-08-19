@@ -1,7 +1,7 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm ABHISHEK KUMAR</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img src="https://www.inventateq.com/assets/python/small.gif" align="right">
+<img src="https://www.inventateq.com/assets/python/small.gif" align="right" width="400px">
 
 - 🔭 I’m currently working on [Millap Clone](https://ephemeral-phoenix-953908.netlify.app/)
 
