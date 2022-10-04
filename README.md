@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img src="https://www.inventateq.com/assets/python/small.gif" align="right" width="400px">
 
-- 🔭 I’m currently working on [Millap Clone](https://ephemeral-phoenix-953908.netlify.app/)
+- 🔭 I’m currently working on [Shine.com Clone](https://visionary-strudel-9d2d93.netlify.app/)
 
 - 🌱 I’m currently learning **ReactJs,Mearn stack**
 
