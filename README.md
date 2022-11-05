@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs,Mearn stack**
 
-- 👨‍💻 All of my projects are available at [https://abhishekadityaroy102.github.io](https://unrivaled-cranachan-2f5e91.netlify.app)
+- 👨‍💻 All of my projects are available at [https://abhishekadityaroy102.github.io](https://abhishekadityaroy102.github.io)
 
 - 💬 Ask me about **react,javascript**
 
