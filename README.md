@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Shine.com Clone](https://visionary-strudel-9d2d93.netlify.app/)
 
-- 🌱 I’m currently learning **ReactJs,Mearn stack**
+- 🌱 I’m currently learning **Javascript,MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://abhishekadityaroy102.github.io](https://abhishekadityaroy102.github.io)
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **React js,javascript**
 
 - 📫 How to reach me **abhishekadityaroy@gmail.com**
 
