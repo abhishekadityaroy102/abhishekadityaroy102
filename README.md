@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
 
-- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://abhishekadityaroy102.github.io/Abhishek-portfolio/)
+- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://abhishekadityaroy102.github.io/)
 
 - 💬 Ask me about **MERN**
 
@@ -72,7 +72,7 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/abhishek-kumar-718a20235/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "mailto:abhishekadityaroy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://abhishekadityaroy102.github.io/Abhishek-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+<a href="https://abhishekadityaroy102.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
 
 </p>
  
