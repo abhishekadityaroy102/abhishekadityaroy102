@@ -1,31 +1,89 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm ABHISHEK KUMAR</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
+
+<em><b>A Enthusiastic full stack web developer from Bihar ,Patna.I'm passionate about solving technical problems and researching and developing new sites and technologies. I undertake and challenge myself to always improve, by being proactive, responsible, and committed to finding the perfect solution to any problem.</b> 😊😊</em>
+
+
 <img src="https://www.inventateq.com/assets/python/small.gif" align="right" width="350px">
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekadityaroy102&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekadityaroy102" /> </p>
 
-- 🔭 I’m currently working on [Shine.com Clone](https://visionary-strudel-9d2d93.netlify.app/)
 
-- 🌱 I’m currently learning **Javascript,MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://abhishekadityaroy102.github.io](https://abhishekadityaroy102.github.io)
+- 🌱 I’m currently learning **MERN Stack, At Masai School**
 
-- 💬 Ask me about **React js,javascript**
+- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://abhishekadityaroy102.github.io/Abhishek-portfolio/)
 
-- 📫 How to reach me **abhishekadityaroy@gmail.com**
+- 💬 Ask me about **MERN**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bIbggJosdGv3nQlvZ7k3QDwqKGu_2pfB/view?usp=sharing](https://drive.google.com/file/d/1bIbggJosdGv3nQlvZ7k3QDwqKGu_2pfB/view?usp=sharing)
+- 📫 How to reach me- 📧[Mail](abhishekadityaroy@gmail.com) 📌[Linkdin](https://www.linkedin.com/in/abhishek-kumar-718a20235/)
 
-- ⚡ Fun fact **I think I am very funny**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekadityaroy102" alt="abhishekadityaroy102" /></a> </p>
-<h3 align="left">Connect with me:</h3>
+- 📄 Know about my experiences-[Resume](https://github.com/abhishekadityaroy102/resume/blob/main/Abhishek_kumar_resume%20(2).pdf)
+
+## 🚀 Languages and Tools:
+<div >
+ <div ><h2>Frontend</h2>
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+ <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />
+  <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+ <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+ <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>  
+</div>
+
+  <div ><h2>Backend</h2> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+
+ </div>
+  <div ><h2>Tools</h2> 
+   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+ </div>
+</div>
+
+<!----------------------------------------------------- All Skills Grid Formate --------------------------------------------------------->
+
+<br/>
+<!-- ----------------------------------------------------------------------------------<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
+<br />
+<br />------------------------------------------------------------------------------- -->             
+<br>
+
+
+
+
+ <!----------------------------------------------------- Let's Connect --------------------------------------------------------->                                        
+ 
+ 
+<div><h2> 🌐 Socials</h2> <div/>
+<br/>
 <p align="left">
-<a href="https://linkedin.com/in/abhishek-kumar-718a20235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kumar-718a20235/" height="30" width="40" /></a>
+<a href = "https://www.linkedin.com/in/abhishek-kumar-718a20235/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "mailto:abhishekadityaroy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://abhishekadityaroy102.github.io/Abhishek-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+
 </p>
+ 
+ ## 📊 My Github Stats
+   <br/>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekadityaroy102&show_icons=true&locale=en&layout=compact" alt="abhishekadityaroy102" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekadityaroy102&show_icons=true&locale=en&layout=compact" alt="abhishekadityaroy102" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekadityaroy102&show_icons=true&locale=en" alt="abhishekadityaroy102" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekadityaroy102&" alt="abhishekadityaroy102" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekadityaroy102" alt="abhishekadityaroy102" /></a> </p>
+
+
