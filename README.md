@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 
-<em><b>A Enthusiastic full stack web developer from Bihar ,Patna.I'm passionate about solving technical problems and researching and developing new sites and technologies. I undertake and challenge myself to always improve, by being proactive, responsible, and committed to finding the perfect solution to any problem.</b> 😊😊</em>
+<em><b>A full stack web developer from Bihar ,Patna.I'm passionate about solving technical problems and researching and developing new sites and technologies. I undertake and challenge myself to always improve, by being proactive, responsible, and committed to finding the perfect solution to any problem.</b> 😊😊</em>
 
 
 <img src="https://www.inventateq.com/assets/python/small.gif" align="right" width="350px">
@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack, At Masai School**
+- 🌱 I’m a **MERN Stack, Certified by Masai School**
 
 - 👨‍💻 All of my projects are available at- 📑[Portfolio](https://abhishekadityaroy102.github.io/)
 
