@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 
-<em><b>A full stack web developer from Bihar ,Patna.I'm passionate about solving technical problems and researching and developing new sites and technologies. I undertake and challenge myself to always improve, by being proactive, responsible, and committed to finding the perfect solution to any problem.</b> 😊😊</em>
+<em><b>Certified Full Stack Web Developer from Masai School with expertise in MERN stack. Proficient in frontend and backend development, excelling in problem-solving and coding. Demonstrated skills through diverse project contributions. Passionate about creating applications for real-world challenges. Ready to contribute significantly to any team or project, offering a robust web development foundation and a commitment to excellence. Eager to align skills with organizational objectives for mutual success.</b> 😊😊</em>
 
 
 <img src="https://www.inventateq.com/assets/python/small.gif" align="right" width="350px">
