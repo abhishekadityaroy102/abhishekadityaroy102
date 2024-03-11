@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m a **MERN Stack, Certified by Masai School**
+- 🌱  **MERN Stack Developer, Certified by Masai School**
 
 - 👨‍💻 All of my projects are available at- 📑[Portfolio](https://abhishekadityaroy102.github.io/)
 
