@@ -17,7 +17,7 @@
 
 - 📫 How to reach me- 📧[Mail](abhishekadityaroy@gmail.com) 📌[Linkdin](https://www.linkedin.com/in/abhishek-kumar-718a20235/)
 
-- 📄 Know about my experiences-[Resume](https://github.com/abhishekadityaroy102/resume/blob/main/Abhishek_kumar_resume%20(2).pdf)
+- 📄 Know about my experiences-[Resume](https://github.com/abhishekadityaroy102/resume/blob/main/Abhishek_kumar_mern%20(9).pdf)
 
 ## 🚀 Languages and Tools:
 <div >
