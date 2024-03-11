@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
+<h1 align="center">Hi 👋, Abhishek kumar</h1>
 
 <em><b>Certified Full Stack Web Developer from Masai School with expertise in MERN stack. Proficient in frontend and backend development, excelling in problem-solving and coding. Demonstrated skills through diverse project contributions. Passionate about creating applications for real-world challenges. Ready to contribute significantly to any team or project, offering a robust web development foundation and a commitment to excellence. Eager to align skills with organizational objectives for mutual success.</b> 😊😊</em>
 
